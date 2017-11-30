@@ -15,7 +15,9 @@ var getUrlVars = function(){
     return vars; 
 }
 var params = getUrlVars;
-  console.log(params["code"]);
+    window.onload = function(){
+        console.log(params["code"]);
+    };
 </script>
 </head>
 <body>
