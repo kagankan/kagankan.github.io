@@ -305,6 +305,7 @@ body {
 	position: relative;
 	width: 800px;
 	background-image: linear-gradient(135deg, #c5fe97 50%, #ffcc82 70%);
+	background-repeat: no-repeat;
 }
 
 .sample,
